@@ -1,6 +1,6 @@
 # FPL
 
-The purpose of this repository is a script to connect to Fantasy Premier League API's using Python and Jupyter Notebook.
+The purpose of this repository is to assist with connecting to Fantasy Premier League API's using Python and Jupyter Notebook.
 
 The script extracts the player, squad and points for the current season.
 
