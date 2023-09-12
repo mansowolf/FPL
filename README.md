@@ -4,6 +4,8 @@ The purpose of this repository is to assist with connecting to Fantasy Premier L
 
 The script extracts the player, squad and points for the current season.
 
-A database was created in PostgreSql. The data extracted from the API's is then transformed and loaded into the database.
+A database was created in PostgreSql with a fact table for points and player also a dimesion table for squad related attributes. 
+
+The data extracted from the API's is then transformed and loaded into the database.
 
 A next version of the script aims to extract prior seasons points for machine learning studies.
